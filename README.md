@@ -1,5 +1,7 @@
 # Travis CI x Kiuwan Integration 
 
+![143135305-bbab7c88-7a27-4e51-9453-623012b8d2fc](https://user-images.githubusercontent.com/20936398/144514977-2e359cda-1528-4eb4-a24f-5f61f1926c86.png)
+
 
 ## Usage
 
@@ -37,5 +39,3 @@ We are changing the permission using `chmod` then running `kiuwan.sh` which take
 ## Conclusion 
 
 This is a working example/demo of Kiuwan and Travis CI working together, although there's moving parts and I had to make the project more declarative using TypeScript instead of something like vanilla JavaScript I still was able with reading the Travis CI PRD provided by Michal Rybinski & Stan, make a simple integration between Travis and Kiuwan. 
-
-
