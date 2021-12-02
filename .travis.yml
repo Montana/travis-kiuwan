@@ -2,7 +2,7 @@ language: java
 install: skip
 
 script:
- - chmod u+x kiuan.sh 
+ - chmod u+x kiuwan.sh 
 
  #- agent -n %CI_PROJECT_NAME% -s %CI_PROJECT_DIR% -l "GitLab build %CI_JOB_ID%" -c --user %KIUWAN_USER% --pass %KIUWAN_PASSWD
  
